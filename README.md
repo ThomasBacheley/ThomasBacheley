@@ -2,7 +2,7 @@
 
 Salut, je m'appelle Thomas, j'ai 21 ans et je suis développeur Junior.
 
-Je code depuis 2017 des applications pour mes études ([ATV](https://github.com/ThomasBacheley/ATV) ,[ProjetCross2019](https://github.com/ThomasBacheley/ProjetCross2019)) ou des projets personnel ([CustomDiscordBot](https://github.com/ThomasBacheley/CustomDiscordBot)).
+Je code depuis 2017 des applications pour mes études ([ATV](https://github.com/ThomasBacheley/ATV) ,[ProjetCross2019](https://github.com/ThomasBacheley/ProjetCross2019)) ou des projets personnel ([CustomDiscordBot](https://github.com/ThomasBacheley/CustomDiscordBot),[steam-annoncement-publisher](https://github.com/ThomasBacheley/steam-annoncement-publisher),[YweePop](https://github.com/ThomasBacheley/YweePop)).
 
   J'héberge les projets sur des raspberry pi (modèle 3B et modèle 4) ainsi que mon site *(actuellement en construction)*
 
