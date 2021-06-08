@@ -1,4 +1,4 @@
-# ![icon](https://image.flaticon.com/icons/png/32/59/59170.png) Présentation
+# ![icon](https://image.flaticon.com/icons/png/32/1077/1077063.png) Présentation
 
 Salut, je m'appelle Thomas, j'ai 21 ans et je suis développeur Junior.
 
