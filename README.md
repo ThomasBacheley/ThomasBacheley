@@ -1,6 +1,6 @@
 # ![icon](https://image.flaticon.com/icons/png/32/1077/1077063.png) Présentation
 
-Salut, je m'appelle Thomas, j'ai 21 ans et je suis développeur Junior.
+Salut, je m'appelle Thomas, j'ai 22 ans et je suis développeur Junior.
 
 Je code depuis 2017 des applications pour mes études ([ATV](https://github.com/ThomasBacheley/ATV) ,[ProjetCross2019](https://github.com/ThomasBacheley/ProjetCross2019)) ou des projets personnel ([CustomDiscordBot](https://github.com/ThomasBacheley/CustomDiscordBot),[steam-annoncement-publisher](https://github.com/ThomasBacheley/steam-annoncement-publisher),[YweePop](https://github.com/ThomasBacheley/YweePop)).
 
