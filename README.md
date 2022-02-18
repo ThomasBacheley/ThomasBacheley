@@ -1,4 +1,4 @@
-# ![icon](https://cdn-icons.flaticon.com/png/512/3024/premium/3024605.png?token=exp=1645192876~hmac=c3adf83e4dd52b3aee2632a38ae53508) Présentation
+# ![icon](https://img.icons8.com/wired/32/000000/test-account.png) Présentation
 
 Salut, je m'appelle Thomas, j'ai 22 ans et je suis développeur Junior.
 
