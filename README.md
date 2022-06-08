@@ -1,28 +1,42 @@
-# ![icon](https://img.icons8.com/wired/32/000000/test-account.png) Présentation
+# ![icon](http://yweelon.fr/bootstrap_icons/projector.svg) Présentation
 
 Salut, je m'appelle Thomas, j'ai 22 ans et je suis développeur Junior.
 
+En Septembre 2022, je rejoins l'école Créative dans la formation BAC+3 "Concepteur Développeur D'Application" pour une durée de 1 an
+
 Je code depuis 2017 des applications pour mes études ([ATV](https://github.com/ThomasBacheley/ATV) ,[ProjetCross2019](https://github.com/ThomasBacheley/ProjetCross2019)) ou des projets personnel ([CustomDiscordBot](https://github.com/ThomasBacheley/CustomDiscordBot),[steam-annoncement-publisher](https://github.com/ThomasBacheley/steam-annoncement-publisher),[YweePop](https://github.com/ThomasBacheley/YweePop)).
 
-  J'héberge les projets ainsi que mon site *(actuellement en construction)* sur des raspberry pi (modèle 3B et modèle 4)
+J'héberge les projets ainsi que mon site *(actuellement en construction)* sur des raspberry pi (modèle 3B et modèle 4)
 
-Je m'intéresse aussi à la domotique en essayant de mettre en place un système de contrôle de LED avec des ESP8266
-# ![icon](http://yweelon.fr/bootstrap_icons/alt.svg) Cursus
+Je fais beaucoup de JavaScript ou de développement Web / Mobile pour me simplifier la vie et gérer ma base de données
 
--  [2019] BTS SNIR (Systèmes numériques option A informatique et réseaux) à l'institut Lemonnier
+Je m'intéresse aussi à la domotique via des minis projets autour d'ESP8266
+# ![icon](http://yweelon.fr/bootstrap_icons/bookmark-check.svg) Cursus
 
--  [2017] BAC STI2D ITEC (Innovation Technologique et Éco-Conception) au lycée Dumont D'urville
+- Créative - (BAC +3 - 2022-2023)
 
-# ![icon](https://image.flaticon.com/icons/png/32/4245/4245229.png) Expériences
+- BTS SNIR - (2019)
 
-- Fiber Academy → Développeur Junior
+- BAC STI2D - (2017)
 
-- ATV → Développeur en Stage
+# ![icon](http://yweelon.fr/bootstrap_icons/gear.svg) Expériences
 
-# ![icon](https://image.flaticon.com/icons/png/32/4396/4396623.png) Langages
+- Fiber Academy (Colombelles) : Developpeur
+Mi Aout → Fin Octobre 2020 (10 semaines)
 
-- Javascript
+- ATV (Mathieu) : Developpeur Stagiaire
+Mai → Juin 2018 (6 semaines)
 
-- C#
+- DL Négoce (Colombelles) : Stage de Decouverte
+Fevrier 2014 (1 semaine)
+
+# ![icon](http://yweelon.fr/bootstrap_icons/code.svg) Langages
+
+- HTML, PHP, CSS
+(1 an en formation / 3 ans en autodidacte)
+
+- Javascript (nodeJS, Express, React Native)
+(1 an en formation / 3 ans en autodidacte)
 
 - SQL
+(2 ans en formation / 3 ans en autodidacte)
