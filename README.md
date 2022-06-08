@@ -7,7 +7,7 @@ Je code depuis 2017 des applications pour mes études ([ATV](https://github.com/
   J'héberge les projets ainsi que mon site *(actuellement en construction)* sur des raspberry pi (modèle 3B et modèle 4)
 
 Je m'intéresse aussi à la domotique en essayant de mettre en place un système de contrôle de LED avec des ESP8266
-# ![icon](https://image.flaticon.com/icons/png/32/943/943409.png) Cursus
+# ![icon](http://yweelon.fr/bootstrap_icons/alt.svg) Cursus
 
 -  [2019] BTS SNIR (Systèmes numériques option A informatique et réseaux) à l'institut Lemonnier
 
