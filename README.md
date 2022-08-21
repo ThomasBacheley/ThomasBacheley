@@ -1,8 +1,8 @@
 # ![icon](http://yweelon.fr/bootstrap_icons/projector.svg) Présentation
 
-Salut, je m'appelle Thomas, j'ai 22 ans et je suis développeur Junior.
+Salut, je m'appelle Thomas, j'ai 23 ans et je suis développeur Junior.
 
-En Septembre 2022, je rejoins l'école Créative dans la formation BAC+3 "Concepteur Développeur D'Application" pour une durée de 1 an
+En Septembre 2022, je rejoins l'école Créative et l'entreprise Code42 dans la formation BAC+3 "Concepteur Développeur D'Application" pour une durée de 1 an
 
 Je code depuis 2017 des applications pour mes études ([ATV](https://github.com/ThomasBacheley/ATV) ,[ProjetCross2019](https://github.com/ThomasBacheley/ProjetCross2019)) ou des projets personnel ([CustomDiscordBot](https://github.com/ThomasBacheley/CustomDiscordBot),[steam-annoncement-publisher](https://github.com/ThomasBacheley/steam-annoncement-publisher),[YweePop](https://github.com/ThomasBacheley/YweePop)).
 
