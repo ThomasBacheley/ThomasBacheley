@@ -1,4 +1,4 @@
-# ![icon](http://yweelon.fr/bootstrap_icons/projector.svg) Présentation
+# Présentation
 
 Salut, je m'appelle Thomas, j'ai 23 ans et je suis développeur Junior.
 
@@ -11,7 +11,7 @@ J'héberge les projets ainsi que mon site *(actuellement en construction)* sur d
 Je fais beaucoup de JavaScript ou de développement Web / Mobile pour me simplifier la vie et gérer ma base de données
 
 Je m'intéresse aussi à la domotique via des minis projets autour d'ESP8266
-# ![icon](http://yweelon.fr/bootstrap_icons/bookmark-check.svg) Cursus
+# Cursus
 
 - Créative - (BAC +3 - 2022-2023)
 
@@ -19,7 +19,7 @@ Je m'intéresse aussi à la domotique via des minis projets autour d'ESP8266
 
 - BAC STI2D - (2017)
 
-# ![icon](http://yweelon.fr/bootstrap_icons/gear.svg) Expériences
+# Expériences
 
 - Fiber Academy (Colombelles) : Developpeur
 Mi Aout → Fin Octobre 2020 (10 semaines)
@@ -30,7 +30,7 @@ Mai → Juin 2018 (6 semaines)
 - DL Négoce (Colombelles) : Stage de Decouverte
 Fevrier 2014 (1 semaine)
 
-# ![icon](http://yweelon.fr/bootstrap_icons/code.svg) Langages
+# Langages
 
 - HTML, PHP, CSS
 (1 an en formation / 3 ans en autodidacte)
