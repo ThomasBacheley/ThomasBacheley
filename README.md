@@ -1,6 +1,6 @@
 # Présentation
 
-Salut, je m'appelle Thomas, j'ai 23 ans et je suis développeur Junior.
+Salut, je m'appelle Thomas, j'ai 25 ans et je suis développeur Junior.
 
 En Septembre 2022, je rejoins l'école Créative et l'entreprise Code42 dans la formation BAC+3 "Concepteur Développeur D'Application" pour une durée de 1 an
 
